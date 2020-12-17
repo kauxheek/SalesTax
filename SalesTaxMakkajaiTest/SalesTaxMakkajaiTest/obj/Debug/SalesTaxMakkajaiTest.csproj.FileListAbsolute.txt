@@ -1,0 +1,7 @@
+D:\SalesTaxMakkajaiTest\SalesTaxMakkajaiTest\bin\Debug\SalesTaxMakkajaiTest.exe.config
+D:\SalesTaxMakkajaiTest\SalesTaxMakkajaiTest\bin\Debug\SalesTaxMakkajaiTest.exe
+D:\SalesTaxMakkajaiTest\SalesTaxMakkajaiTest\bin\Debug\SalesTaxMakkajaiTest.pdb
+D:\SalesTaxMakkajaiTest\SalesTaxMakkajaiTest\obj\Debug\SalesTaxMakkajaiTest.csproj.CoreCompileInputs.cache
+D:\SalesTaxMakkajaiTest\SalesTaxMakkajaiTest\obj\Debug\SalesTaxMakkajaiTest.exe
+D:\SalesTaxMakkajaiTest\SalesTaxMakkajaiTest\obj\Debug\SalesTaxMakkajaiTest.pdb
+D:\SalesTaxMakkajaiTest\SalesTaxMakkajaiTest\obj\Debug\SalesTaxMakkajaiTest.csprojAssemblyReference.cache
